@@ -45,13 +45,13 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerEx1">
-    <configuration name="RegularEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.chapter9.RegularEx1" />
+  <component name="RunManager" selected="Application.CalendarEx5">
+    <configuration name="CalendarEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.chapter10.CalendarEx1" />
       <module name="javaprac.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.chapter9.*" />
+          <option name="PATTERN" value="practice.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.chapter9.RegularEx2" />
+    <configuration name="CalendarEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.chapter10.CalendarEx5" />
       <module name="javaprac.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.chapter9.*" />
+          <option name="PATTERN" value="practice.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalendarEx5" />
+        <item itemvalue="Application.CalendarEx1" />
         <item itemvalue="Application.ScannerEx1" />
         <item itemvalue="Application.RegularEx4" />
         <item itemvalue="Application.RegularEx3" />
-        <item itemvalue="Application.RegularEx2" />
-        <item itemvalue="Application.RegularEx1" />
       </list>
     </recent_temporary>
   </component>
