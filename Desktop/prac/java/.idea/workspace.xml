@@ -45,7 +45,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MessageFormatEx1">
+  <component name="RunManager" selected="Application.MessageFormatEx3">
     <configuration name="CalendarEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.chapter10.CalendarEx1" />
       <module name="javaprac.main" />
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.chapter9.RegularEx4" />
+    <configuration name="MessageFormatEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.chapter10.MessageFormatEx2" />
       <module name="javaprac.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.chapter9.*" />
+          <option name="PATTERN" value="practice.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.chapter9.ScannerEx1" />
+    <configuration name="MessageFormatEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.chapter10.MessageFormatEx3" />
       <module name="javaprac.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.chapter9.*" />
+          <option name="PATTERN" value="practice.chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MessageFormatEx3" />
+        <item itemvalue="Application.MessageFormatEx2" />
         <item itemvalue="Application.MessageFormatEx1" />
         <item itemvalue="Application.CalendarEx5" />
         <item itemvalue="Application.CalendarEx1" />
-        <item itemvalue="Application.ScannerEx1" />
-        <item itemvalue="Application.RegularEx4" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +162,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/practice/chapter7/InnerEx1.java</url>
           <line>22</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/chapter10/MessageFormatEx1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
